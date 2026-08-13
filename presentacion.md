@@ -1,6 +1,7 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
 
-En mi tiempo libre me gusta...
+Hola! Mi nombre es Ingrid Lopez.
 
-Mi instrucción favorita del manual de intel es...
+En mi tiempo libre me gusta desarrollar proyectos.
+
+Mi instrucción favorita del manual de intel es por ahora ninguno.
